@@ -8,6 +8,8 @@ The repo is maintained by [PaoPaoRobot](https://github.com/PaoPaoRobot).
 - 2019-05-19 - [VIO标定总结](./summary/2019-05-19.md)
 - 2019-05-26 - [传感器模型 + VIO分类](./summary/2019-05-26.md)
 - 2019-06-02 - [初始化和预积分](./summary/2019-06-02.md)
+- 2019-06-16 - [前端](./summary/2019-06-16.md)
+- 2019-06-30 - [VIO中的滑窗设计](./summary/2019-06-30.md)
 
 # About us
 You can get the information about PaoPaoRobot from here: https://github.com/PaoPaoRobot/PaoPaoRobotTutorial   
